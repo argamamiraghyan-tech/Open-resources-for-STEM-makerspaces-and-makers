@@ -1,12 +1,13 @@
 Open Source Projects by Field and Content for STEM StudentsThis is a list of open-source projects, tools, and resources that students can use for business and educational purposes.
 
-⚙️ Hardware Projects by FieldThese are projects aimed at creating physical devices, which include designs, guides, and software.
+⚙️ Hardware Projects by Field
+These are projects aimed at creating physical devices, which include designs, guides, and software.
 
 Agriculture & Food Production
 
 Egg Incubator
  Link: https://github.com/quantenschaum/egg-incubator
- Description: This is an Arduino-controlled egg incubator designed to maintain optimal temperature and humidity for proper egg incubation.
+Description: This is an Arduino-controlled egg incubator designed to maintain optimal temperature and humidity for proper egg incubation.
 
 BeeMonitor
  Link: https://github.com/FarmBot
