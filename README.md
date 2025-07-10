@@ -6,6 +6,7 @@ These are projects aimed at creating physical devices, which include designs, gu
 Agriculture & Food Production
 
 Egg Incubator
+ 
  Link: https://github.com/quantenschaum/egg-incubator
  Description: This is an Arduino-controlled egg incubator designed to maintain optimal temperature and humidity for proper egg incubation.
 
